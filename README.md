@@ -44,3 +44,23 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+#### Fizz Buzz を TDD で進めていくレポジトリ。
+
+###### Fizz Buzz とは？
+
+3 の倍数の時は"fizz"
+5 の倍数の時は"buzz"
+3 と 5 の倍数の時は"fizzbuzz"
+それ以外は「数値」を戻すという有名な問題。
+今回は 1〜100 までの数字でトライする。
+
+##### TDD とは？
+
+先にテストを書くこと
+動作する仕様書
+
+```
+使用技術
+pnpm install --save-dev @testing-library/react
+```
