@@ -62,5 +62,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ```
 使用技術
-pnpm install --save-dev @testing-library/react
+npm install --save-dev @testing-library/react
 ```
